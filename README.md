@@ -1,12 +1,16 @@
 # flutter-ui-nice
 ### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/nb312).Thanks!
-**The project is developing,do not complete** please wait. 
-This project will comply with many people.
-You can connect us with follow message.
+Facebook Page | Twitter | Medium |  QQ Group
+--- | --- | --- | ---
+[Flutter Open ](https://www.facebook.com/flutteropen) | [NieBin](https://twitter.com/niebin_gg)  | [Flutter Open](https://medium.com/flutteropen) | 963828159
 
-Facebook Page | Facebook Group | QQ Group | 
---- | --- | --- 
-[Flutter Open ](https://www.facebook.com/flutteropen) | [Flutter Open](https://www.facebook.com/groups/948618338674126/) |  963828159
+# Contributors
+~ | ~ | ~ | ~ | ~
+--- | --- | --- | --- | --- 
+[NieBin](https://github.com/nb312)| [Echonox](https://github.com/echonox) | [Mahesh Jamdade](https://github.com/maheshmnj) |[edgartrem](https://github.com/edgartrem) | [srikanthbollojula](https://github.com/srikanthbollojula) 
+ | [Yasin ilhan](https://github.com/kalismeras61) | [Çağrı Akgül](https://github.com/saturu) | [dndoanh](https://github.com/dndoanh) | [Waffulz](https://github.com/Waffulz) | [Santosh Prasad Sah](https://github.com/SahSantoshh)
+
+# Contents
 <img src="doc/01-signup-no.jpg"/>
 
 <img src="doc/02-walk_through-no.jpg"/>
@@ -28,11 +32,16 @@ Facebook Page | Facebook Group | QQ Group |
 <img src="doc/10-camera-no.jpg"/>
 
 # License
-The MIT License (MIT)
-Copyright © 2018 NieBin
+Copyright 2019 @NieBin
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    http://www.apache.org/licenses/LICENSE-2.0
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.

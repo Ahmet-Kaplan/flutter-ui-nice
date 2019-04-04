@@ -21,7 +21,7 @@ const TEXT_SMALL_2_SIZE = 22.0;
 const TEXT_SMALL_3_SIZE = 24.0;
 
 class FeedImage {
-  static const IMAGE_PATH = "images/feed";
+  static const IMAGE_PATH = "assets/images/feed";
   static const more_circle = "$IMAGE_PATH/feed_more.png";
   static const search_circle = "$IMAGE_PATH/feed_search.png";
   static const white_back = "$IMAGE_PATH/white_background.png";
@@ -42,6 +42,23 @@ class FeedImage {
   static const landscape = "$IMAGE_PATH/landscape.png";
   static const menonglass = "$IMAGE_PATH/menonglass.png";
   static const night = "$IMAGE_PATH/night.png";
+
+  //Images for Feed2
+  static const feed2_image1 = "$IMAGE_PATH/feed2_image1.png";
+  static const feed2_image2 = "$IMAGE_PATH/feed2_image2.png";
+  static const heart = "$IMAGE_PATH/heart.png";
+
+//feed 3
+  static const FEED_3_PIC_01 = "$IMAGE_PATH/feed_pic3_01.jpg";
+  static const FEED_3_PIC_02 = "$IMAGE_PATH/feed_pic3_02.jpg";
+  static const FEED_3_PIC_03 = "$IMAGE_PATH/feed_pic3_03.jpg";
+  static const FEED_3_PIC_HEADER_01 = "$IMAGE_PATH/feed_pic3_header_01.jpg";
+  static const FEED_3_PIC_HEADER_02 = "$IMAGE_PATH/feed_pic3_header_02.jpg";
+  static const FEED_3_PIC_HEADER_03 = "$IMAGE_PATH/feed_pic3_header_03.jpg";
+  static const FEED_3_PIC_LEFT = "$IMAGE_PATH/feed_pic3_left.jpg";
+
+  //Image for feed 5;
+  static const feed5_pic_01 = "$IMAGE_PATH/feed_pic5_01.jpg";
 
   //feed 13
   static const feed13_header1 = "$IMAGE_PATH/feed13_header1.png";
